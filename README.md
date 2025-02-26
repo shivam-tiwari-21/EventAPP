@@ -53,7 +53,7 @@ Ensure you have the following installed on your system:
 #### Frontend Setup
 1. Navigate to the frontend directory:
    ```bash
-   cd event-app/frontend
+   cd EventAPP/Frontend
    ```
 2. Install dependencies:
    ```bash
