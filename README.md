@@ -14,7 +14,7 @@ Event APP is a full-stack web application that allows users to browse and regist
 ![Screenshot 5](https://drive.google.com/uc?id=1ryC6oaaBT-g9rJDtJ84bqirNQuR-xhrs)
 
 ## Note
-App's UI is under development. It may be slightly different from the actual screenshots, however I will constantly update them. 
+App's UI is under development. It may be slightly different from the above screenshots, however I will constantly update them. 
 
 ## Features
 ### User Features
